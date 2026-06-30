@@ -1,0 +1,7 @@
+elephant
+python
+astronoaut
+hello
+world
+leaves
+mouse
